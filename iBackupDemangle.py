@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# Copyright (C) Dmytry Lavrov, 2019
+
 import sys
 import argparse
 import sqlite3
